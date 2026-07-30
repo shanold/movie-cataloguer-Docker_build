@@ -5,7 +5,7 @@
 # Movie Cataloguer
 
 A web-based movie catalogue built with **Flask** and **SQLite** that lets you manage your movie collection. It supports adding, editing, deleting, and organizing movies, integrates with **TMDb API** for movie identification, and allows importing/exporting via CSV.
-
+##currently not in ongoing development - sorry, I'm working on something better
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
