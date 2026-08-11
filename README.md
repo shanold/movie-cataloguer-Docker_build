@@ -2,6 +2,25 @@
   <img src="logo.PNG" alt="Movie Cataloguer Logo" width="200">
 </p>
 
+I am Not a Developer I just wanted the abilty to run it in docker feel free to use it and use at your own risk! I'm no where near smart enough to supply support! 
+
+Make sure you change the Environment variables in the docker compose. 
+
+I used openssl rand -hex 16 To generate a random secret.
+
+And here's the docs for the TMDB api key https://developer.themoviedb.org/docs/getting-started
+
+
+
+
+
+
+
+
+
+
+
+
 # Movie Cataloguer
 
 A web-based movie catalogue built with **Flask** and **SQLite** that lets you manage your movie collection. It supports adding, editing, deleting, and organizing movies, integrates with **TMDb API** for movie identification, and allows importing/exporting via CSV.
