@@ -1,4 +1,3 @@
-```dockerfile
 FROM python:3.12-slim
 
 # Prevent Python from creating .pyc files and buffer stdout/stderr
@@ -21,4 +20,3 @@ RUN mkdir -p /data
 EXPOSE 5000
 
 CMD ["python", "app.py"]
-```
